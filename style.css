@@ -110,7 +110,7 @@ body {
 
 #nav-right input {
     padding: .5vw 1vw;
-    border: 1px solid #000;
+    border: .3px solid #2f2f2f17;
     font-size: 1.05vw;
     border-radius: 50px;
     margin-right: 2vw;
