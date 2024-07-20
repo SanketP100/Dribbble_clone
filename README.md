@@ -4,4 +4,4 @@ Create an impressive practice project using HTML and CSS, focusing on responsive
 
 **Check It Out My Project :** [Click here](https://sanketp100.github.io/Dribbble_clone/)
 
-![Tailwind project](https://github.com/SanketP100/TailwindCSS-Practice-4/assets/153346394/fffde73b-e1c8-49c6-834f-b24306b3cba4)
+![Screenshot 2024-07-21 033924](https://github.com/user-attachments/assets/cd69fb00-edff-47df-8b02-587391980709)
